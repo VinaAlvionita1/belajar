@@ -1,0 +1,9 @@
+{
+    "name": "vio/coba",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "intervention/image": "^2.5",
+        "theseer/tokenizer": "^1.2"
+    }
+}
